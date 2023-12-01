@@ -145,6 +145,8 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Transaction Analysis][Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX '19 Security Symposium.
 
+[Smart Contract][The Art of The Scam: Demystifying Honeypots in Ethereum SmartContracts](https://www.usenix.org/system/files/sec19-torres.pdf). ChristofFerreira Torres, Mathis Steichen, and Radu State, University of Luxembourg. USENIX '19 Security Symposium.
+
 [Consensus][StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX '19 Security Symposium.
 
 [Privacy][BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX '19 Security Symposium.
@@ -370,6 +372,7 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus] [Rabia: Simplifying State-Machine Replication Through Randomization](https://dl.acm.org/doi/pdf/10.1145/3477132.3483582). Haochen Pan, Jesse Tuglu, Neo Zhou, Tianshu Wang, Yicheng Shen, Xiong Zheng, Joseph Tassarotti, Lewis Tseng, Roberto Palmieri. SOSP'21
 
+[Consensus] [Flexible-Advancement in Asynchronous BFT Consensus](). Shengyun Liu, Wenbo Xu, Chen Shan, Xiaofeng Yan, Tianjing Xu, Bo Wang, Lei Fan, Fuxi Deng, Ying Yan and Hui Zhang. SOSP'23 
 
 ## OSDI
 [System][Blockene: A High-throughput Blockchain Over Mobile Devices](https://arxiv.org/pdf/2010.07277). Sambhav Satija and Apurv Mehra, Sudheesh Singanamalla, Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam. OSDI'20 
@@ -391,6 +394,11 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus] [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://dl.acm.org/doi/abs/10.1145/3492321.3519594). George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman. EuroSys'22.
 
+[Consensus] [Dissecting BFT Consensus: In Trusted Components we Trust!](). Suyash Gupta, Sajjad Rahnama, Shubham Pandey, Natacha Crooks, Mohammad Sadoghi.  EuroSys'23
+
+[Consensus] [Diablo: A Benchmark Suite for Blockchains](). Vincent Gramoli, Rachid Guerraoui, Andrei Lebedev, Chris Natoli, Gauthier Voron. EuroSys'23
+
+
 ## NSDI
 [Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
 
@@ -403,6 +411,7 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 [System][SPEEDEX: A Scalable, Parallelizable, and Economically Efficient Decentralized EXchange](https://www.usenix.org/system/files/nsdi23-ramseyer.pdf). Geoffrey Ramseyer, Ashish Goel, David Mazières. NSDI '23
 
 [System][Hamilton: A High-Performance Transaction Processor for Central Bank Digital Currencies](https://www.usenix.org/system/files/nsdi23-lovejoy.pdf). James Lovejoy, Madars Virza, Cory Fields, Kevin Karwaski, Anders Brownworth, Neha Narula. NSDI '23
+
 
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
